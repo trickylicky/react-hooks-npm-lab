@@ -1,0 +1,23 @@
+{
+  "name": "react-hooks-npm-lab",
+  "version": "1.0.0",
+  "description": "## Learning Goals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'",
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trickylicky/react-hooks-npm-lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trickylicky/react-hooks-npm-lab/issues"
+  },
+  "homepage": "https://github.com/trickylicky/react-hooks-npm-lab#readme",
+  "dependencies": {
+    "date-fns": "^2.29.3"
+  }
+}
